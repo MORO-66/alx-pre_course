@@ -2,3 +2,4 @@
 - git checkout -b NAME بيعمل البرانش ويروح عليه
 - git branch -m NEW-NAME بيغير الاسم
 - git merge NAME
+git pull
